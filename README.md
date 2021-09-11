@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/76562485/132936898-381df361-8e55-4bd2-8dcd-542996fdfad7.png)
 
 ## Business Objective:
-                   Extract reviews from trip advisor and ratings for different hotels and our goal is to examine how travellers are communicating their positive and negative experiences in online platforms for staying in a specific hotel and major objective is what are the attributes that travellers are considering while selecting a hotel. With this manager can understand which elements of their hotel influence more in forming a positive review or improves hotel brand image.
+Extract reviews from trip advisor and ratings for different hotels and our goal is to examine how travellers are communicating their positive and negative experiences in online platforms for staying in a specific hotel and major objective is what are the attributes that travellers are considering while selecting a hotel. With this manager can understand which elements of their hotel influence more in forming a positive review or improves hotel brand image.
                    
 Hotel reviews collected from the guests can be classified into three subclasses i.e. positive, negative, or neutral and therefore we can analyze the sentiment of the customer
 
